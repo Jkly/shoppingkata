@@ -1,4 +1,4 @@
-package com.itv.shoppingkata;
+package shoppingkata;
 
 public interface PricingRulesSource {
 	PricingRules getLatestPricingRules();

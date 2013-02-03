@@ -1,4 +1,4 @@
-package com.itv.shoppingkata;
+package shoppingkata;
 
 public class Item {
 	private final String sku;

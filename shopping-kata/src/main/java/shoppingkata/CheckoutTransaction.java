@@ -1,4 +1,4 @@
-package com.itv.shoppingkata;
+package shoppingkata;
 
 import java.util.HashMap;
 import java.util.Map;

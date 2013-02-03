@@ -1,8 +1,12 @@
-package com.itv.shoppingkata;
+package shoppingkata;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
+
+import shoppingkata.CheckoutTransaction;
+import shoppingkata.HardCodedPricingRulesSource;
+import shoppingkata.Item;
 
 public class CheckoutTransactionTest {
 	

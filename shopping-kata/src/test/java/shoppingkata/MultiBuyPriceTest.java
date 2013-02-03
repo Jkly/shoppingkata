@@ -1,9 +1,13 @@
-package com.itv.shoppingkata;
+package shoppingkata;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Before;
 import org.junit.Test;
+
+import shoppingkata.MultiBuyPrice;
+import shoppingkata.NormalPrice;
+import shoppingkata.Price;
 
 public class MultiBuyPriceTest {
 

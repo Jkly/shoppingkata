@@ -1,10 +1,14 @@
-package com.itv.shoppingkata;
+package shoppingkata;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNull;
 
 import org.junit.Before;
 import org.junit.Test;
+
+import shoppingkata.HardCodedPricingRules;
+import shoppingkata.Item;
+import shoppingkata.Price;
 
 public class HardCodedPricingRulesTest {
 

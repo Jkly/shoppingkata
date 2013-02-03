@@ -1,8 +1,11 @@
-package com.itv.shoppingkata;
+package shoppingkata;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
+
+import shoppingkata.NormalPrice;
+import shoppingkata.Price;
 
 public class NormalPriceTest {
 	@Test
